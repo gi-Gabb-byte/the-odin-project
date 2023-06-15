@@ -1,0 +1,29 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipe-list{
+    margin: 75px;
+    border: 0.5px solid black;
+}
+
+.recipe-list h1{
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    background-color: pink;
+}
+
+.recipe-list ul{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: aliceblue;
+}
+
+.recipe-list ul li a{
+    color: black;
+    text-decoration: none;
+}
